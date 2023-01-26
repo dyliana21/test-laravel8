@@ -10,7 +10,6 @@
 <body>
     <div id="app">
     <h1>Halaman Home</h1>
-    <example-component></example-component>
     </div>
 
 <script src = "js/script.js"></script>
